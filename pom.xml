@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>ch2-ex1</module>
-        <module>ch2-ex2</module>
-        <module>ch2-ex3</module>
+        <module>chapter2-example1</module>
+        <module>chapter2-example2</module>
+        <module>chapter2-example3</module>
         <module>ch3-ex1</module>
         <module>ch3-ex2</module>
         <module>chapter3-example2</module>
@@ -24,6 +24,9 @@
         <module>chapter5-example2</module>
         <module>chapter5-example3</module>
         <module>chapter5-example4</module>
+        <module>chapter6-example1</module>
+        <module>chapter6-example2</module>
+        <module>chapter6-example3</module>
     </modules>
 
 
